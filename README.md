@@ -1,5 +1,7 @@
 # ATOM Web search engine 
 
+NOTE: In order to run the code, Create a new folder named as: 'Converted_Text_Files' at the following path: ACC_Atom_WbSearchEngine-main\WebSearchEngine\Converted_Text_Files
+
 ATOM is developed in java on Eclipse IDE.
 
 Features implemented -
