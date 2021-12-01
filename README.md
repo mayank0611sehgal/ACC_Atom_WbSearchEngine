@@ -2,6 +2,8 @@
 
 NOTE: In order to run the code, Create a new folder named as: 'Converted_Text_Files' at the following path: ACC_Atom_WbSearchEngine-main\WebSearchEngine\Converted_Text_Files
 
+This is the location where all the HTML documents are converted to text documents and saved. 
+
 ATOM is developed in java on Eclipse IDE.
 
 Features implemented -
